@@ -1,0 +1,7 @@
+name: in200
+channels:
+  - defaults
+dependencies:
+  - ruff
+  - mypy
+  - ansicolors
